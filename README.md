@@ -1,7 +1,7 @@
 # Smart Cafe Management System
-
-Command-line cafe management and vending kiosk application written in C (`stdio.h`, `stdlib.h`, `string.h`, `time.h`).
-
+**A project taken in my first semester SPL course **
+**Command-line cafe management and vending kiosk application written in C (`stdio.h`, `stdlib.h`, `string.h`, `time.h`).
+**
 ## Core Features
 - Role-based flow: `Customer` and `Admin`
 - Admin PIN protection (`1234`, 3 attempts)
